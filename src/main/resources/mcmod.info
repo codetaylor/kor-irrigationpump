@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ctkorirrigationpump",
+  "name": "CTKor Irrigation Pump",
+  "description": "A powered pump to water and grow your crops.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/codetaylor/kor-irrigationpump",
+  "updateUrl": "",
+  "authorList": ["codetaylor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["ctkorlib"]
+}
+]
